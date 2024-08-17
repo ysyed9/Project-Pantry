@@ -1,3 +1,12 @@
+Inventory Management System
+Developed a web-based inventory management system using React and Firebase.
+
+Implemented real-time CRUD operations to manage inventory data, ensuring efficient updates and synchronization with Firestore.
+Integrated PDF export functionality using jsPDF and jsPDF-Autotable, allowing users to download inventory lists as PDFs.
+Designed a user-friendly interface with MUI, featuring responsive layouts, search functionality, and intuitive modal dialogs for adding and removing items.
+Utilized FileSaver.js for client-side file handling and exporting data.
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
